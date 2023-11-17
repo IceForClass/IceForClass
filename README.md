@@ -8,7 +8,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=IceForClass8&show_icons=true&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api?username=IceForClass&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
