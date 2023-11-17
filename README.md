@@ -1,3 +1,9 @@
+## Heya, I'm a beta developer, probably alpha, but I guess there's something to learn.
+
+### Web application development student.🎓
+
+- Main account : [Icesito68](https://github.com/Icesito68).
+
 - 👋 Hi, I’m @IceForClass
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
