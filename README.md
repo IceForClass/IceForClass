@@ -4,11 +4,10 @@
 
 - Main account : [Icesito68](https://github.com/Icesito68).
 
-- 👋 Hi, I’m @IceForClass
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Icesito
+- 👀 I’m interested in programming in general
+- 🌱 I’m currently learning Web programming
+- 💞️ I’m looking to collaborate on porting Windows 11 to mobile devices 
 
   ## Some statistics that look good even if they are not much
 
