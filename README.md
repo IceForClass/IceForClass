@@ -2,7 +2,9 @@
 
 ### Web application development student.🎓
 
-- Main account : [Icesito68](https://github.com/Icesito68).
+- Main account : 
+[<img alt="Icesito68" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113939920?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Icesito68)
+
 
 - 👋 Hi, I’m Icesito
 - 👀 I’m interested in programming in general
